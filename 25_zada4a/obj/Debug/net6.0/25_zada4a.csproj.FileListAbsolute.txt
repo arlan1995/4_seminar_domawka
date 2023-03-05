@@ -1,0 +1,15 @@
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\25_zada4a.csproj.AssemblyReference.cache
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\25_zada4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\25_zada4a.AssemblyInfoInputs.cache
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\25_zada4a.AssemblyInfo.cs
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\25_zada4a.csproj.CoreCompileInputs.cache
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\bin\Debug\net6.0\25_zada4a.exe
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\bin\Debug\net6.0\25_zada4a.deps.json
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\bin\Debug\net6.0\25_zada4a.runtimeconfig.json
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\bin\Debug\net6.0\25_zada4a.dll
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\bin\Debug\net6.0\25_zada4a.pdb
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\25_zada4a.dll
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\refint\25_zada4a.dll
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\25_zada4a.pdb
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\25_zada4a.genruntimeconfig.cache
+C:\Users\ARLAN\Desktop\urok_4\urok_4\25_zada4a\obj\Debug\net6.0\ref\25_zada4a.dll
